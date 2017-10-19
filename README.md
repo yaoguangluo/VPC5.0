@@ -1,0 +1,2 @@
+# VPC5.0
+KARMA test ANGULAR SAMPLE  HERE > &lt; 
